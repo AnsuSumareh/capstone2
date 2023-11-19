@@ -1,0 +1,21 @@
+
+.top {
+    background-color: rgb(100, 218, 178);
+}
+
+.p1 {
+    color: white;
+}
+h2 {
+    color: aquamarine;
+}
+
+.pic {
+    width: 10%;
+    border-radius: 50%;
+}
+.partners {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}
